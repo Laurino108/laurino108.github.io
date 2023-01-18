@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Laurino's WIKI Blog</title>
+        <title>Laurin Stapf Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
-        <description>Laurino's WIKI Blog</description>
+        <description>Laurin Stapf Blog</description>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
