@@ -4,23 +4,24 @@
         <title>Laurin Stapf Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>Laurin Stapf Blog</description>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 0203 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 Laurino</copyright>
         <item>
-            <title><![CDATA[Willkommen in meinem WIKI]]></title>
+            <title><![CDATA[Hello, world.]]></title>
             <link>https://your-docusaurus-test-site.com/blog/welcome-wiki</link>
             <guid>welcome-wiki</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Yo, euer neuer Blogger hier lol, wollte nur mal was erstellen damit es getan ist. Der Blog ist einfach nur da damit ich falls ich mal Langeweile habe bissel was schreiben kann oder OPENAI was generieren kann.]]></description>
-            <content:encoded><![CDATA[<p>Yo, euer neuer Blogger hier lol, wollte nur mal was erstellen damit es getan ist. Der Blog ist einfach nur da damit ich falls ich mal Langeweile habe bissel was schreiben kann oder OPENAI was generieren kann.</p><p>Bis dahin Laurino der Dino :)</p>]]></content:encoded>
+            <pubDate>Fri, 28 Jan 0203 00:00:00 GMT</pubDate>
+            <description><![CDATA[When it comes to social media, I'm definitely more a reader than a writer type of person.]]></description>
+            <content:encoded><![CDATA[<p>When it comes to social media, I'm definitely more a reader than a writer type of person.
+Recently I've felt a need to start creating content. Or, more like get back into doing it.</p><p>Actually i never had a blog so yeah why not to start one yet?</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-yet-another-blog">Why yet another blog<a class="hash-link" href="#why-yet-another-blog" title="Direct link to heading">​</a></h2><p>Nowadays, everyone has their own blog. Do I really need to become another wannabe influencer?</p><p>No. What I want to achieve is:</p><ul><li>structure my knowledge and record what I've learned recently,</li><li>try out new ways to increase productivity, stay motivated and avoid burnout,</li><li>improve my English (as a non-native English speaker),</li><li>develop self-discipline, reduce procrastination, and, as a result, save time to do the things mentioned above.</li></ul><p>So, as you can see, it's mostly for me, but I hope you'll benefit from this as well.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-to-expect">What to expect<a class="hash-link" href="#what-to-expect" title="Direct link to heading">​</a></h2><p>Well, definitely shorter, more concise blog posts, like this one.</p><img loading="lazy" src="https://media.tenor.com/UqpAOVgDfaMAAAAC/we-dont-have-time-for-this-the-encore.gif" width="220" height="220" class="img_ev3q"><p>source: <a href="https://tenor.com" target="_blank" rel="noopener noreferrer">tenor</a></p><p>While I have a few ideas for new blog posts in mind, I don't want to limit myself to just technical topics. Instead, I will probably touch on different areas of my interest, such as:</p><ul><li>full-stack technical topics related to the technologies I use</li><li>personal projects announcements,</li><li>new talks announcements</li><li>open source,</li><li>cool projects and apps I stumbled upon,</li><li>productivity,</li><li>personal growth (i.e. soft skills),</li></ul><p>Yup, that's a lot - but we'll see how it goes.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="closing-words">Closing Words<a class="hash-link" href="#closing-words" title="Direct link to heading">​</a></h2><p>If you got to this point, then congratulations. 🎉 Welcome to my blog.</p><p>Thanks for reading see you and bye 👋</p>]]></content:encoded>
             <author>laurin@stapfl.net (Laurino)</author>
-            <category>hola</category>
-            <category>new</category>
-            <category>wiki</category>
-            <category>news</category>
+            <category>hello</category>
+            <category>world</category>
+            <category>introduction</category>
+            <category>shorts</category>
         </item>
     </channel>
 </rss>
