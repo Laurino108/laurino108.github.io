@@ -4,16 +4,30 @@
         <title>Laurin Stapf Blog</title>
         <link>https://stapfl.net/blog</link>
         <description>Laurin Stapf Blog</description>
-        <lastBuildDate>Fri, 28 Jan 0203 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 Laurino</copyright>
         <item>
+            <title><![CDATA[Job at VATEUD.]]></title>
+            <link>https://stapfl.net/blog/working-vateud</link>
+            <guid>working-vateud</guid>
+            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starting into the Staff Job at VATEUD.]]></description>
+            <content:encoded><![CDATA[<p>Since the end of January this year I have been working on a voluntary basis at <a href="https://vateud.net" target="_blank" rel="noopener noreferrer">VATEUD</a> (short for VATSIM Europe Division) and thus not only supported the <a href="https://vatsim.net" target="_blank" rel="noopener noreferrer">VATSIM</a> network as a pilot and ATCo but also as an active staff member in the European Division.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-my-job">Whats my Job<a class="hash-link" href="#whats-my-job" title="Direct link to heading">​</a></h2><p>I applied and was accepted for the Staff position in the VATEUD Event Team or in the Event Management area. I report to the Community Department and the Community Director. </p><p>As Event Manager I have the following tasks:</p><ul><li>Elaborate events</li><li>Represented the European Division in CTL's planning efforts</li><li>Creating event banners</li><li>Overseeing of the vACC Event Teams</li><li>Supporting the Community Department and Director</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="my-goals">My goals<a class="hash-link" href="#my-goals" title="Direct link to heading">​</a></h2><p>My main goals at VATEUD are to integrate new members and to bring smaller airports and FIRs onto the "big stage". </p><p>Furthermore, I would like to incorporate the feedback of the vACC teams into my planning as much as possible.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="closing-words">Closing Words<a class="hash-link" href="#closing-words" title="Direct link to heading">​</a></h2><p>You made it 🥳 Thanks for reading until the next blog post 👋</p>]]></content:encoded>
+            <author>laurin@stapfl.net (Laurino)</author>
+            <category>job</category>
+            <category>vateud</category>
+            <category>hobby</category>
+            <category>vatsim</category>
+            <category>flightsim</category>
+        </item>
+        <item>
             <title><![CDATA[Hello, world.]]></title>
-            <link>https://stapfl.net/blog/welcome-wiki</link>
-            <guid>welcome-wiki</guid>
-            <pubDate>Fri, 28 Jan 0203 00:00:00 GMT</pubDate>
+            <link>https://stapfl.net/blog/starting-blog</link>
+            <guid>starting-blog</guid>
+            <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[When it comes to social media, I'm definitely more a reader than a writer type of person.]]></description>
             <content:encoded><![CDATA[<p>When it comes to social media, I'm definitely more a reader than a writer type of person.
 Recently I've felt a need to start creating content. Or, more like get back into doing it.</p><p>Actually i never had a blog so yeah why not to start one yet?</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-yet-another-blog">Why yet another blog<a class="hash-link" href="#why-yet-another-blog" title="Direct link to heading">​</a></h2><p>Nowadays, everyone has their own blog. Do I really need to become another wannabe influencer?</p><p>No. What I want to achieve is:</p><ul><li>structure my knowledge and record what I've learned recently,</li><li>try out new ways to increase productivity, stay motivated and avoid burnout,</li><li>improve my English (as a non-native English speaker),</li><li>develop self-discipline, reduce procrastination, and, as a result, save time to do the things mentioned above.</li></ul><p>So, as you can see, it's mostly for me, but I hope you'll benefit from this as well.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-to-expect">What to expect<a class="hash-link" href="#what-to-expect" title="Direct link to heading">​</a></h2><p>Well, definitely shorter, more concise blog posts, like this one.</p><img loading="lazy" src="https://media.tenor.com/UqpAOVgDfaMAAAAC/we-dont-have-time-for-this-the-encore.gif" width="220" height="220" class="img_ev3q"><p>source: <a href="https://tenor.com" target="_blank" rel="noopener noreferrer">tenor</a></p><p>While I have a few ideas for new blog posts in mind, I don't want to limit myself to just technical topics. Instead, I will probably touch on different areas of my interest, such as:</p><ul><li>full-stack technical topics related to the technologies I use</li><li>personal projects announcements,</li><li>new talks announcements</li><li>open source,</li><li>cool projects and apps I stumbled upon,</li><li>productivity,</li><li>personal growth (i.e. soft skills),</li></ul><p>Yup, that's a lot - but we'll see how it goes.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="closing-words">Closing Words<a class="hash-link" href="#closing-words" title="Direct link to heading">​</a></h2><p>If you got to this point, then congratulations. 🎉 Welcome to my blog.</p><p>Thanks for reading see you and bye 👋</p>]]></content:encoded>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6977],{7507:s=>{s.exports=JSON.parse('{"label":"flightsim","permalink":"/blog/tags/flightsim","allTagsPath":"/blog/tags","count":1}')}}]);
